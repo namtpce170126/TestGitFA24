@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox>Hello</TextBox>
+        <Label Content="Minh Uyen neh" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="82"/>
     </Grid>
 </Window>
