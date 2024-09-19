@@ -9,5 +9,9 @@
     <Grid>
         <TextBox>Hello</TextBox>
         <TextBox HorizontalAlignment="Left" Margin="0,22,0,0" TextWrapping="Wrap" Text="Khoa hello" VerticalAlignment="Top" Width="120"/>
+
+        <Label Content="Minh Uyen neh" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="82"/>
+
+        <TextBox>Adu</TextBox>
     </Grid>
 </Window>
